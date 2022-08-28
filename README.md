@@ -1,7 +1,7 @@
 # Previsão de custo anual - plano de saúde
 
 #### Utilizando a base de dados de um Plano de Saúde, faremos a previsão do valor do plano para clientes futuros.
-###### São 3630 linhas na base de dados. As variáveis existentes são:
+###### São 3630 linhas na base de dados (em anexo). As variáveis existentes são:
 ###### - Age: idade do cliente;
 ###### - Sex: sexo;
 ###### - BMI: índice de Massa Corporal (IMC);
